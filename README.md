@@ -10,7 +10,7 @@ elixir 1.5.2-otp-20
 erlang 20.3
 ```
 
-brings back the expected behavior.
+and re-running `asdf install` and cleaning elixir deps / compilation artifacts brings back the expected behavior.
 
 To start your Phoenix server:
 
